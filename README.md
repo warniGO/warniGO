@@ -7,7 +7,8 @@
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
 <hr>
-<img align="right" src="https://user-images.githubusercontent.com/119101655/215498115-c188e2e1-01f4-4867-8104-b1c08f7912f1.gif" width="500" height="300">
+<img align="right" src="https://user-images.githubusercontent.com/119101655/215498115-c188e2e1-01f4-4867-8104-b1c08f7912f1.gif" width="500" height="330">
+<br>
 
 ><h3>👨🏻‍💻 Languages and Tools</h3>
 
@@ -23,3 +24,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 **Contact me**
 
 <a href="https://twitter.com/warniGO_0012"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="abumain0012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https:warnigo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><a href="https://discord.com/channels/1042828615961825361/1042828616414797886"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
