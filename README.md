@@ -11,6 +11,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
 <hr>
 
+<img src="https://user-images.githubusercontent.com/119101655/222243626-a25f4191-db55-4fa9-b1db-9cb0d622e703.gif" width="400">
+
 <h1>Flutter development</h1>
 <p>I'm passionate self-taught Backend developer and Flutter developer. I learned programming at QWASAR SILICON VALLEY. I also know a bit about Frontend. I take great care in the experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
